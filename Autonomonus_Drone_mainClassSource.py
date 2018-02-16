@@ -1,9 +1,4 @@
 
-# coding: utf-8
-
-# In[2]:
-
-
 import time
 from enum import Enum
 import numpy as np
